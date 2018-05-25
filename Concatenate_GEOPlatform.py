@@ -7,7 +7,7 @@ import pandas as pd
 os.chdir('set your directory here where GEO platform files located')
 
 platform_dataframes = []
-# Loop over platform files in directory
+# Loop through platform files in directory
 for file in os.listdir():
     if "platform" in file:
         platform_file = pd.read_csv(file, sep="\t") # read file
