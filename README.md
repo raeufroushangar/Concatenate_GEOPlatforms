@@ -1,1 +1,1 @@
-# Concatenate_GEO_Platforms
+# Concatenate GEO Platforms
