@@ -1,1 +1,0 @@
-# Concatenate GEO Platforms
