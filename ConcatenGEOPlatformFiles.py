@@ -17,3 +17,4 @@ for file in os.listdir():
 result = pd.concat(platform_dataframes)
 # Write data into text file
 result.to_csv("platform_reference.txt", sep="\t",index=False, encoding='utf-8')
+
