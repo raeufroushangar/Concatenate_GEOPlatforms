@@ -1,5 +1,5 @@
 
-# Dependencies
+# Dependencies to import
 import os
 import pandas as pd
 
